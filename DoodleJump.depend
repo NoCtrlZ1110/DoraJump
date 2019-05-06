@@ -1,0 +1,815 @@
+# depslib dependency file v1.0
+1555177644 source:c:\users\noctrlz\desktop\ltnc\doodlejump\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\begin_code.h
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\close_code.h
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519878872 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2_image-2.0.3\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1555175703 source:c:\users\noctrlz\desktop\ltnc\doodlejump\baseobject.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1555178730 c:\users\noctrlz\desktop\ltnc\doodlejump\commonfunction.h
+	<Windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+
+1508722390 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454308948 c:\users\noctrlz\desktop\ltnc\doodlejump\libsdl2\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1555175703 c:\users\noctrlz\desktop\ltnc\doodlejump\baseobject.h
+	"CommonFunction.h"
+
+1555175054 source:c:\users\noctrlz\desktop\ltnc\doodlejump\commonfunction.cpp
+	"CommonFunction.h"
+
+1556892603 source:c:\users\huynd\desktop\doodlejump\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"Platform.h"
+	"iostream"
+	"SDL_mixer.h"
+	"PowerUp.h"
+	<ctime>
+	"ThreatObjects.h"
+	"Score.h"
+	<windows.h>
+
+1556874750 c:\users\huynd\desktop\doodlejump\commonfunction.h
+	<Windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\begin_code.h
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\close_code.h
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519878872 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2_image-2.0.3\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508722390 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454308948 c:\users\huynd\desktop\doodlejump\libsdl2\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1556823093 c:\users\huynd\desktop\doodlejump\baseobject.h
+	"CommonFunction.h"
+
+1556889823 source:c:\users\huynd\desktop\doodlejump\baseobject.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1555178760 source:c:\users\huynd\desktop\doodlejump\commonfunction.cpp
+	"CommonFunction.h"
+
+1556873107 source:c:\users\huynd\desktop\doodlejump\mainobject.cpp
+	"MainObject.h"
+	"Platform.h"
+	<iostream>
+
+1556811268 c:\users\huynd\desktop\doodlejump\mainobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"Platform.h"
+
+1555348834 source:c:\users\huynd\desktop\doodlejump\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunction.h"
+
+1555348821 c:\users\huynd\desktop\doodlejump\imptimer.h
+
+1556813104 c:\users\huynd\desktop\doodlejump\platform.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1555732787 source:c:\users\huynd\desktop\doodlejump\platform.cpp
+	"Platform.h"
+	"CommonFunction.h"
+
+1555732001 source:c:\users\huynd\desktop\doodlejump\powerup.cpp
+	"PowerUp.h"
+
+1555732786 c:\users\huynd\desktop\doodlejump\powerup.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"Platform.h"
+
+1556125758 c:\users\huynd\desktop\doodlejump\threatobjects.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1556125981 source:c:\users\huynd\desktop\doodlejump\threatobjects.cpp
+	"ThreatObjects.h"
+
+1556157439 source:c:\users\huynd\desktop\doodlejump\resource.rc
+
+1556820738 source:c:\users\huynd\desktop\doodlejump\score.cpp
+	"Score.h"
+	<string.h>
+	<sstream>
+	<iostream>
+
+1556817879 c:\users\huynd\desktop\doodlejump\score.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"Platform.h"
+
